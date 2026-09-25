@@ -1,0 +1,12 @@
+project:
+  name: ai-banking-compliance-agent
+  version: 0.1.0
+
+retrieval:
+  top_k: 5
+
+documents:
+  data_dir: data
+
+logging:
+  level: INFO
